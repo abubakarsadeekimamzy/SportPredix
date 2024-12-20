@@ -5,3 +5,5 @@ P
  contracts/oracle-management.clar,a/6/a6a7af0d6b672247c8d997130661e071981de7b7
 O
 tests/oracle-management.test.ts,9/5/95f85608c9ce7eb977c0082a98dc6f3fbd7b26b2
+M
+contracts/sports-betting.clar,a/a/aaabf802d27d56da49a8d06b3423ff01b471145b
